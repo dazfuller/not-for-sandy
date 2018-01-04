@@ -8,7 +8,8 @@ A collection of things we feel would be too horrible to subject Sandy to. Items 
 * Perl
 * Cobol
 * LISP
-* Brainfuck
+* [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
+* [Shakespeare](https://en.wikipedia.org/wiki/Shakespeare_Programming_Language)
 
 ## Frameworks
 
