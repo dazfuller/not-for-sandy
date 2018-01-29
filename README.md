@@ -10,7 +10,11 @@ A collection of things we feel would be too horrible to subject Sandy to. Items 
 * LISP
 * [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 * [Shakespeare](https://en.wikipedia.org/wiki/Shakespeare_Programming_Language)
+* [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
 
 ## Frameworks
 
+* WIX
+
 ## Services
+
